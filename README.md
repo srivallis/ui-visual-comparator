@@ -1,4 +1,4 @@
-# ui-visual-comparator
+# ui-visual-comparator / UI Visual Regression Test Kit
 An application that estimates the differences in the UI of a web page by comparing the actual page against the updated page. In short, live page vs local page.
 
 ![desktop](https://user-images.githubusercontent.com/79823203/146912853-f8f27df8-7c4a-4a6e-9211-a952e19665fd.jpg)
